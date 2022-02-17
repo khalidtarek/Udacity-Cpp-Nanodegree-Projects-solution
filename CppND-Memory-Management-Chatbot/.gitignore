@@ -1,0 +1,7 @@
+.github/**
+a.out
+settings.json
+*.o
+build/*
+*.json
+.vscode/**
